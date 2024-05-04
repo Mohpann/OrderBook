@@ -1,6 +1,8 @@
 # OrderBook
 ## Description
-### This project is being designed for Quantiative Trading Club at UIC to used in the future as a learning experience. We intend to add features that allows users to interact with a simulated market using this order book system. We also intend to develop trading algorithms that use financial mathematics to make trades based on information derived from the orderbook. 
+* This project is being designed for Quantiative Trading Club at UIC to used in the future as a learning experience.
+* We intend to add features that allows users to interact with a simulated market using this order book system.
+* We also intend to develop trading algorithms that use financial mathematics to make trades based on information derived from the orderbook. 
 
 # Tech Stack 
 * C++20 + API integration later down the line
