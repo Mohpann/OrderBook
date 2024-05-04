@@ -16,7 +16,7 @@
 * git init
 * git remote add origin https://github.com/Mohpann/OrderBook.git
 * We commit to the main branch so make sure you're on it using git branch
-* If not -> git checkout main (main should be highlight in your terminal output)
+* If not -> git checkout main (main should be highlighted in your terminal output)
 ## Now you can commit changes :writing_hand:
 * git add . (add files in working directory to your commit)
 * git commit (commit changes to be sent)
